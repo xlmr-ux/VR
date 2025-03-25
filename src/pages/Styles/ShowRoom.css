@@ -1,0 +1,13 @@
+.show-room-container {
+  display: flex;
+}
+
+.show-room.light {
+background-color: #ffffff; /* Light theme background color */
+color: #000000; /* Light theme text color */
+}
+
+.show-room.dark {
+background-color: #1f1f1f; /* Dark theme background color */
+color: #ffffff; /* Dark theme text color */
+}
